@@ -1,0 +1,1 @@
+https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/#:~:text=The%20DHT11%20temperature%20and%20humidity,monitors%2C%20and%20home%20automation%20systems
